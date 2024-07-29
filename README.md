@@ -25,5 +25,8 @@ This project focuses on enhancing the contrast and sharpness of images using Ope
    pip install -r requirements.txt
 
 ## Screenshots
+![Original](https://github.com/user-attachments/assets/60c0ddd6-80e2-45b8-b1a6-96e7f76884e5)
+![Constrast_Image](https://github.com/user-attachments/assets/5db89dfe-6e69-4d00-b238-8f4ff0ed3235)
+![Result image](https://github.com/user-attachments/assets/ea737053-c520-4cd6-b774-08fb6b28d5ee)
 
 
